@@ -5,4 +5,4 @@ Ukazkovy repozitar pro pyladies
 *kurziva*
 **tucny text**
 **velka zmena1**
-udelala jsem zmeny
+udelala jsem 2
